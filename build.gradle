@@ -1,0 +1,10 @@
+plugins {
+    id 'java'
+}
+
+group 'run.tere.lib'
+version 'Patch-1.0.0'
+
+repositories {
+    mavenCentral()
+}
